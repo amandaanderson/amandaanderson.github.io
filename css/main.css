@@ -281,18 +281,12 @@ a:hover {
 }
 
 
-.pimage{
-    width:100%;
-    margin: 15px 15px 15px 15px;
-    text-align:center;
-    box-shadow: 1px 1px 5px #ddd;
-}
-
-.pimage2{
-    width:100%; 
-    margin: 15px 15px 15px 15px;
-    text-align:center;
-    border: 1px solid black;
+.pimage {
+  box-shadow: 1px 1px 5px #ddd;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+  width: 100%;
 }
 
 .pimage img{
