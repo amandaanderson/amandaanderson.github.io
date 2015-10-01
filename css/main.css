@@ -81,7 +81,7 @@ textarea {
 .logo {
     height:200px;
     width:100%;
-    background-image:url(../img/logotype3.svg);
+    background-image:url(../img/amandalogo.svg);
     background-repeat: no-repeat;
     background-position: center
     
@@ -276,7 +276,7 @@ a:hover {
     width:50%;
     padding:10px;
     margin:0 auto;
-    text-align:left justify;
+    text-align:left;
     
 }
 
